@@ -1,0 +1,12 @@
+tag 1968abe399e8afd2f4bceeac9eff28f896668a34 v1.0.6
+Author:	Dorwido <darkz@gmx.de>
+Date:	Tue Aug 14 23:29:40 2018 +0200
+
+tagging as v1.0.6
+
+commit a365be86cfacf92be011b79ebefef5d609c01e65
+Author: Dorwido <darkz@gmx.de>
+Date:   Tue Aug 14 23:29:21 2018 +0200
+
+    v1.0.6
+

@@ -1,0 +1,27 @@
+## Interface: 80000
+## Title: Wido's WoW Token Watch
+## Author: Dorwido
+## Version: 1.0.6
+## Notes: Popups a little window when the wow token price changes and show the difference to the last known price
+## SavedVariables: WoWTokenSave
+
+libs\LibWindow-1.1\LibStub.lua
+libs\LibWindow-1.1\LibWindow-1.1\LibWindow-1.1.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\libdatabroker-1-1\LibDataBroker-1.1.lua
+
+localisation\locale_enUS.lua
+localisation\locale_deDE.lua
+localisation\locale_frFR.lua
+localisation\locale_koKR.lua
+localisation\locale_esMX.lua
+localisation\locale_ruRU.lua
+localisation\locale_zhCN.lua
+localisation\locale_esES.lua
+localisation\locale_zhTW.lua
+localisation\locale_ptBR.lua
+localisation\locale_itIT.lua
+
+WoWTokenWatch.lua
+WoWTokenWatchConfig.lua
+
