@@ -1,5 +1,5 @@
 local ns = select( 2, ... )
-local f  = CreateFrame("frame",nil,UIParent);
+local f  = CreateFrame("frame",nil,UIParent,BackdropTemplateMixin and "BackdropTemplate");
 f:SetWidth(250)
 f:SetHeight(63)
 	local backdrop = 

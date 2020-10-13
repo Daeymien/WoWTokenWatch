@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 90000
 ## Title: Wido's WoW Token Watch
 ## Author: Dorwido
 ## Version: 1.0.6
